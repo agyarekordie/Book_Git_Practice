@@ -4,3 +4,5 @@ This is page 2 of my test. Juice plus
 Real Nutrition. real simple
 
 you can't always eat as well as you'd like
+
+After commit this page, I am editing page 2 now. Let me see what happens
